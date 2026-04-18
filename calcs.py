@@ -1,2 +1,4 @@
+c=0
 for i in range(10):
-    print(i)
+    c=c+i
+print(c)
